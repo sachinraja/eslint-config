@@ -1,1 +1,1 @@
-module.exports = require('./dist/index.cjs').default
+module.exports = require('./index-wrapper.cjs')
