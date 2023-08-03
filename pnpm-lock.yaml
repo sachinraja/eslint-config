@@ -7,7 +7,7 @@ specifiers:
   '@typescript-eslint/parser': 5.42.1
   dprint: 0.32.2
   eslint: 8.27.0
-  eslint-config-prettier: 8.5.0
+  eslint-config-prettier: 8.10.0
   eslint-plugin-unicorn: 44.0.2
   npm-run-all: 4.1.5
   tsup: 6.4.0
@@ -16,7 +16,7 @@ specifiers:
 dependencies:
   '@typescript-eslint/eslint-plugin': 5.42.1_2udltptbznfmezdozpdoa2aemq
   '@typescript-eslint/parser': 5.42.1_rmayb2veg2btbq6mbmnyivgasy
-  eslint-config-prettier: 8.5.0_eslint@8.27.0
+  eslint-config-prettier: 8.10.0_eslint@8.27.0
   eslint-plugin-unicorn: 44.0.2_eslint@8.27.0
 
 devDependencies:
@@ -773,8 +773,8 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
-  /eslint-config-prettier/8.5.0_eslint@8.27.0:
-    resolution: {integrity: sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q==}
+  /eslint-config-prettier/8.10.0_eslint@8.27.0:
+    resolution: {integrity: sha512-SM8AMJdeQqRYT9O9zguiruQZaN7+z+E4eAP9oiLNGKMtomwaB1E9dcgUD6ZAn/eQAb52USbvezbiljfZUhbJcg==}
     hasBin: true
     peerDependencies:
       eslint: '>=7.0.0'
