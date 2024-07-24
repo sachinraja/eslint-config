@@ -28,7 +28,7 @@
 		"prepublishOnly": "pnpm build"
 	},
 	"peerDependencies": {
-		"@types/eslint": "^8",
+		"@types/eslint": "^8 || ^9.0.0",
 		"eslint": "^8"
 	},
 	"peerDependenciesMeta": {
